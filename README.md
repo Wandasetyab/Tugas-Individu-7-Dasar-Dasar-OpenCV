@@ -1,0 +1,1 @@
+# Tugas-Individu-7-Dasar-Dasar-OpenCV
